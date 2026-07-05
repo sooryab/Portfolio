@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Soorya]
+# Hi there 👋 I'm Soorya
 
 Quality Engineering | Python Developer | Test Automation Enthusiast
 
